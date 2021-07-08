@@ -47,7 +47,7 @@ importlib-metadata = {version = "^1.0", python = "<3.8"}
 
 [tool.poetry.dev-dependencies]
 pytest = "^6.1.2"
-networkx = "^2.5"
+networkx = "^2.6"
 pytest-benchmark = "^3.2.3"
 pytest-cov = "^2.10.1"
 python-louvain = "^0.14"
